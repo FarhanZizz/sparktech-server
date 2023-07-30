@@ -1,0 +1,527 @@
+[
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/bundle-with-pc-intel-12th-gen-core-i7-12700k-11635852671.webp",
+    "Product Name": "Intel Core i7-9700K",
+    "Category": "CPU / Processor",
+    "Status": "In Stock",
+    "Price": 349.99,
+    "Description": "High-performance 9th generation Intel processor for gaming and multitasking.",
+    "Key Features": {
+      "Brand": "Intel",
+      "Model": "Core i7-9700K",
+      "Specification": "8 cores, 8 threads, 3.6GHz base clock, 4.9GHz boost clock"
+    },
+    "Individual Rating": 4.8,
+    "Average Rating": 4.7,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Amazing processor, great for gaming!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Handles multitasking well but gets a bit hot."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/single-amd-ryzen-5-5600x-37ghz-46ghz-6-core-11605421057.webp",
+    "Product Name": "AMD Ryzen 5 5600X",
+    "Category": "CPU / Processor",
+    "Status": "In Stock",
+    "Price": 279.99,
+    "Description": "Powerful AMD processor with Zen 3 architecture for excellent performance.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Ryzen 5 5600X",
+      "Specification": "6 cores, 12 threads, 3.7GHz base clock, 4.6GHz boost clock"
+    },
+    "Individual Rating": 4.9,
+    "Average Rating": 4.8,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great value for money, smooth gaming experience!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Works like a charm, no complaints so far."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/amd-ryzen-9-5950x-34ghz-49ghz-16-core-70mb-11670762245.webp",
+    "Product Name": "AMD Ryzen 9 5950X",
+    "Category": "CPU / Processor",
+    "Status": "Out of Stock",
+    "Price": 749.99,
+    "Description": "High-end AMD processor with 16 cores and excellent multi-threading performance.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Ryzen 9 5950X",
+      "Specification": "16 cores, 32 threads, 3.4GHz base clock, 4.9GHz boost clock"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Beast of a CPU, perfect for heavy workloads!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Expensive but worth every penny for content creation."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/asus-rog-strix-b650e-f-gaming-wi-fi-6e-ddr5-amd-11673439085.webp",
+    "Product Name": "ASUS ROG Strix Z490-E Gaming",
+    "Category": "Motherboard",
+    "Status": "Out of Stock",
+    "Price": 259.99,
+    "Description": "Feature-rich gaming motherboard with excellent overclocking capabilities.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "ROG Strix Z490-E Gaming",
+      "Specification": "ATX, LGA1200, Intel Z490 chipset"
+    },
+    "Individual Rating": 4.9,
+    "Average Rating": 4.9,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Top-notch motherboard, highly recommended!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Great build quality, but a bit expensive."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/gigabyte-b550m-aorus-elite-ddr4-am4-socket-amd-11595682569.webp",
+    "Product Name": "GIGABYTE B550 AORUS Elite",
+    "Category": "Motherboard",
+    "Status": "In Stock",
+    "Price": 159.99,
+    "Description": "Solid B550 motherboard with good VRM design and modern features.",
+    "Key Features": {
+      "Brand": "GIGABYTE",
+      "Model": "B550 AORUS Elite",
+      "Specification": "ATX, AM4, AMD B550 chipset"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great value, works flawlessly!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Easy to set up, perfect for mid-range builds."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/msi-mpg-z590m-gaming-edge-wi-fi-6e-ddr4-11634382962.webp",
+    "Product Name": "MSI MPG Z590 Gaming Edge WiFi",
+    "Category": "Motherboard",
+    "Status": "In Stock",
+    "Price": 229.99,
+    "Description": "High-end Z590 motherboard with Wi-Fi 6 and strong power delivery.",
+    "Key Features": {
+      "Brand": "MSI",
+      "Model": "MPG Z590 Gaming Edge WiFi",
+      "Specification": "ATX, LGA1200, Intel Z590 chipset"
+    },
+    "Individual Rating": 4.8,
+    "Average Rating": 4.8,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Excellent motherboard for gaming enthusiasts!"
+      },
+      {
+        "Rating": 4.9,
+        "Comment": "Great BIOS interface, solid performance."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/corsair-vengence-lpx-16gb-ddr4-3200mhz-black-11545725688.webp",
+    "Product Name": "Corsair Vengeance LPX 16GB",
+    "Category": "RAM",
+    "Status": "In Stock",
+    "Price": 89.99,
+    "Description": "High-speed DDR4 memory for seamless multitasking and gaming.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "Vengeance LPX",
+      "Specification": "16GB (2 x 8GB), 3200MHz, CL16"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Super fast RAM, works like a charm!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Good performance, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/gskill-ripjaws-v-16gb-ddr4-2666mhz-red-heatsink-11661603599.webp",
+    "Product Name": "G.Skill Ripjaws V 16GB",
+    "Category": "RAM",
+    "Status": "Out of Stock",
+    "Price": 94.99,
+    "Description": "Reliable DDR4 memory with a stylish design for gaming enthusiasts.",
+    "Key Features": {
+      "Brand": "G.Skill",
+      "Model": "Ripjaws V",
+      "Specification": "16GB (2 x 8GB), 3600MHz, CL18"
+    },
+    "Individual Rating": 4.6,
+    "Average Rating": 4.7,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great RAM, easy to overclock for even better performance!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Stylish design and performs well, but slightly expensive."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/crucial-8gb-ddr4-3200mhz-u-dimm-desktop-ram-11667383835.webp",
+    "Product Name": "Crucial Ballistix 16GB",
+    "Category": "RAM",
+    "Status": "In Stock",
+    "Price": 79.99,
+    "Description": "Affordable DDR4 memory with decent speeds for budget builds.",
+    "Key Features": {
+      "Brand": "Crucial",
+      "Model": "Ballistix",
+      "Specification": "16GB (2 x 8GB), 3000MHz, CL15"
+    },
+    "Individual Rating": 4.5,
+    "Average Rating": 4.4,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Good RAM at a great price!"
+      },
+      {
+        "Rating": 4.2,
+        "Comment": "Decent performance, but not the fastest."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/value-top-vt-p300b-300w-non-modular-power-11678193358.webp",
+    "Product Name": "EVGA Supernova 750 G5",
+    "Category": "Power Supply Unit",
+    "Status": "In Stock",
+    "Price": 129.99,
+    "Description": "Reliable power supply with 80+ Gold efficiency and fully modular cables.",
+    "Key Features": {
+      "Brand": "EVGA",
+      "Model": "Supernova 750 G5",
+      "Specification": "750W, 80+ Gold, Fully Modular"
+    },
+    "Individual Rating": 4.6,
+    "Average Rating": 4.7,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Efficient and quiet power supply, love it!"
+      },
+      {
+        "Rating": 4.2,
+        "Comment": "Good PSU, but had some cable compatibility issues."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/corsair-rmx-shift-series-rm850x-850w-atx-fully-11678531579.webp",
+    "Product Name": "Corsair RM850x",
+    "Category": "Power Supply Unit",
+    "Status": "Out of Stock",
+    "Price": 159.99,
+    "Description": "High-quality power supply with 80+ Gold efficiency and quiet operation.",
+    "Key Features": {
+      "Brand": "Corsair",
+      "Model": "RM850x",
+      "Specification": "850W, 80+ Gold, Fully Modular"
+    },
+    "Individual Rating": 4.8,
+    "Average Rating": 4.9,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Rock-solid PSU, highly recommended!"
+      },
+      {
+        "Rating": 4.9,
+        "Comment": "Reliable and silent, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/seasonic-s12-ii-bronze-non-modular-520w-atx-non-31627891316.webp",
+    "Product Name": "Seasonic Focus GX-650",
+    "Category": "Power Supply Unit",
+    "Status": "In Stock",
+    "Price": 109.99,
+    "Description": "Efficient power supply with 80+ Gold certification and a compact design.",
+    "Key Features": {
+      "Brand": "Seasonic",
+      "Model": "Focus GX-650",
+      "Specification": "650W, 80+ Gold, Fully Modular"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.8,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great PSU, runs silently and performs well!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Stable power delivery, perfect for mid-range systems."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/samsung-970-evo-nvme-500gb-m2-2280-pcie-11623061364.webp",
+    "Product Name": "Samsung 970 EVO 500GB NVMe SSD",
+    "Category": "Storage Device",
+    "Status": "In Stock",
+    "Price": 119.99,
+    "Description": "Blazing-fast NVMe SSD for rapid data access and storage.",
+    "Key Features": {
+      "Brand": "Samsung",
+      "Model": "970 EVO",
+      "Specification": "500GB, M.2 NVMe"
+    },
+    "Individual Rating": 4.9,
+    "Average Rating": 4.8,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Super speedy storage solution, highly recommended!"
+      },
+      {
+        "Rating": 4.7,
+        "Comment": "Works like a charm, but a bit expensive."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/twinmos-hyper-h2-ultra-1tb-25-inch-sataiii-dark-11679298181.webp",
+    "Product Name": "Western Digital Blue 1TB SATA SSD",
+    "Category": "Storage Device",
+    "Status": "In Stock",
+    "Price": 99.99,
+    "Description": "Reliable SATA SSD for fast data access and affordable storage upgrade.",
+    "Key Features": {
+      "Brand": "Western Digital",
+      "Model": "Blue",
+      "Specification": "1TB, 2.5-inch SATA"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great value for a 1TB SSD!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Fast boot times, works perfectly!"
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/seagate-barracuda35-5400rpm-2tb-laptop-hard-disk-11629973476.webp",
+    "Product Name": "Seagate BarraCuda 2TB HDD",
+    "Category": "Storage Device",
+    "Status": "Out of Stock",
+    "Price": 64.99,
+    "Description": "High-capacity HDD for storing large amounts of data and media.",
+    "Key Features": {
+      "Brand": "Seagate",
+      "Model": "BarraCuda",
+      "Specification": "2TB, 3.5-inch HDD"
+    },
+    "Individual Rating": 4.6,
+    "Average Rating": 4.5,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Reliable storage solution, great for backups."
+      },
+      {
+        "Rating": 4.2,
+        "Comment": "Decent performance, but can be a bit noisy."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/asus-rog-swift-pg35vq-35-inch-2k-uwqhd-hdmi-dp-11669698132.webp",
+    "Product Name": "ASUS ROG Swift PG279Q",
+    "Category": "Monitor",
+    "Status": "Out of Stock",
+    "Price": 649.99,
+    "Description": "High-refresh-rate gaming monitor with IPS panel for stunning visuals.",
+    "Key Features": {
+      "Brand": "ASUS",
+      "Model": "ROG Swift PG279Q",
+      "Specification": "27-inch, 2560x1440, 165Hz refresh rate"
+    },
+    "Individual Rating": 4.8,
+    "Average Rating": 4.8,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Best gaming monitor I've ever used!"
+      },
+      {
+        "Rating": 4.9,
+        "Comment": "Beautiful display, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/dell-u2719dc-27-inch-ultrasharp-usb-c-2k-dp-61666511727.webp",
+    "Product Name": "Dell Ultrasharp U2719D",
+    "Category": "Monitor",
+    "Status": "In Stock",
+    "Price": 379.99,
+    "Description": "Color-accurate monitor with QHD resolution, ideal for content creators.",
+    "Key Features": {
+      "Brand": "Dell",
+      "Model": "Ultrasharp U2719D",
+      "Specification": "27-inch, 2560x1440, IPS panel"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Excellent monitor for photo editing, highly recommended!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Good colors and clarity, but a bit expensive."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/lg-34gn850-b-34-inch-ultragear-uwqhd-ips-dual-11632391190.webp",
+    "Product Name": "LG 34GN850-B",
+    "Category": "Monitor",
+    "Status": "In Stock",
+    "Price": 799.99,
+    "Description": "Ultra-wide gaming monitor with high refresh rate and G-Sync compatibility.",
+    "Key Features": {
+      "Brand": "LG",
+      "Model": "34GN850-B",
+      "Specification": "34-inch, 3440x1440, 160Hz refresh rate"
+    },
+    "Individual Rating": 4.8,
+    "Average Rating": 4.7,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Amazing gaming experience, totally worth it!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Immersive gaming, but a bit pricey for an ultrawide."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/zotac-nvidia-geforce-rtx-3080-ti-amp-holo-12gb-11623049026.webp",
+    "Product Name": "NVIDIA GeForce RTX 3080",
+    "Category": "Others",
+    "Status": "In Stock",
+    "Price": 799.99,
+    "Description": "Powerful GPU for the ultimate gaming and content creation experience.",
+    "Key Features": {
+      "Brand": "NVIDIA",
+      "Model": "GeForce RTX 3080",
+      "Specification": "10GB GDDR6X, 8704 CUDA cores, Ray Tracing"
+    },
+    "Individual Rating": 4.7,
+    "Average Rating": 4.6,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Beast of a GPU, no complaints!"
+      },
+      {
+        "Rating": 4.5,
+        "Comment": "Excellent performance, but runs a bit hot."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/sapphire-amd-radeon-pulse-rx-6700-xt-gaming-oc-11634629881.webp",
+    "Product Name": "AMD Radeon RX 6700 XT",
+    "Category": "Others",
+    "Status": "Out of Stock",
+    "Price": 499.99,
+    "Description": "High-end AMD GPU with ray tracing and great 1440p gaming performance.",
+    "Key Features": {
+      "Brand": "AMD",
+      "Model": "Radeon RX 6700 XT",
+      "Specification": "12GB GDDR6, 2560 stream processors"
+    },
+    "Individual Rating": 4.6,
+    "Average Rating": 4.7,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Amazing value for the performance, excellent mid-range GPU!"
+      },
+      {
+        "Rating": 4.8,
+        "Comment": "Runs cool and handles games smoothly."
+      }
+    ]
+  },
+  {
+    "Image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/bundle-with-pc-msi-nvidia-geforce-gtx-1660-11634561375.webp",
+    "Product Name": "NVIDIA GeForce GTX 1660 Super",
+    "Category": "Others",
+    "Status": "In Stock",
+    "Price": 249.99,
+    "Description": "Budget-friendly GPU for 1080p gaming with good performance.",
+    "Key Features": {
+      "Brand": "NVIDIA",
+      "Model": "GeForce GTX 1660 Super",
+      "Specification": "6GB GDDR6, 1408 CUDA cores"
+    },
+    "Individual Rating": 4.5,
+    "Average Rating": 4.4,
+    "Reviews": [
+      {
+        "Rating": 5,
+        "Comment": "Great budget option, perfect for 1080p gaming!"
+      },
+      {
+        "Rating": 4.2,
+        "Comment": "Good performance for the price, no complaints."
+      }
+    ]
+  }
+]
